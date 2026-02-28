@@ -9,5 +9,8 @@ This line is of my main branch first and getting commited by feat2/branch2
 ## Line2 Main branch
 This line 2 is of my main branch
 
+## Line2 - By feat1/branch1
+This line 2 is of my feat1/branch1
+
 ## Line3 Main branch
 This line 3 is of my main branch
