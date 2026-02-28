@@ -18,6 +18,9 @@ This line2-dump2 is of my main branch
 ## Line2 - By feat1/branch1
 This line 2 is of my feat1/branch1
 
+## Line Inf - By fet3/branch3
+This line is of the feat3/branch3
+
 ## Line3 Main branch
 This line 3 is of my main branch
 
